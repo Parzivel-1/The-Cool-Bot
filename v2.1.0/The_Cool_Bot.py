@@ -102,7 +102,7 @@ class MyBot(cmds.Bot) :
 
 
 
-bot = MyBot(command_prefix = "p!" , help_command = None , intents = discord.Intents.all() , owner_ids = [643853842441830400 , 745249952074039307 , 292770890792566784])
+bot = MyBot(command_prefix = "p!" , help_command = None , intents = discord.Intents.all())
 
 
 
