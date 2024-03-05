@@ -1,2 +1,2 @@
 # The Cool Bot
-The Cool Bot#3898 (ID = 768479902839603250) is a discord bot created by parzivel_1 (ID = 643853842441830400)
+The Cool Bot#3898 (ID = 768479902839603250) is a very cool discord bot.
